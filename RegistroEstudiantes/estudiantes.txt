@@ -1,0 +1,5 @@
+24920214,Salma Michelle López Martínez,Ingeniería en Informática,9.0
+24920289,Sofía Ramírez López,Ingeniería en Informática,8.9
+24920290,Mariana Torres Zarate,Ingeniería en Informática,7.9
+24920201,Carlos Méndez Santiago,Ingeniería en Informática,8.6
+24920202,Ana López López,Ingeniería en Informática,9.9
